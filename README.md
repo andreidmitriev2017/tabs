@@ -14,5 +14,6 @@
       <div class="tabs__item">content 1</div>
       <div class="tabs__item">content 2</div>
       <div class="tabs__item">content 3</div>
-</div>```
+</div>
+```
 
