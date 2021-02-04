@@ -16,7 +16,7 @@
       <div class="tabs__item">content 3</div>
 </div>
 ```
-2. Ваш CSS-файл должен содержать классы **"hide"** и **show**. Свойство **display** у **hide** может быть **flex** или **block** по Вашему усмотрению.
+2. Ваш CSS-файл должен содержать классы **hide** и **show**. Свойство **display** у **hide** может быть **flex** или **block** по Вашему усмотрению.
 ```CSS
 .hide {
     display: none;
