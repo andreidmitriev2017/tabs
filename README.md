@@ -4,7 +4,8 @@
 Для того чтобы установить данный плагин, необходимо:
 1. Чтобы ваш HTML файл содержал следующую структуру:
 
-  <div class="tabs">
+  ```html
+<div class="tabs">
       <div class="tabs__menu">
           <div class="tabs__link">One</div>
           <div class="tabs__link">Two</div>
@@ -13,5 +14,5 @@
       <div class="tabs__item">content 1</div>
       <div class="tabs__item">content 2</div>
       <div class="tabs__item">content 3</div>
-  </div>
+</div>```
 
